@@ -80,7 +80,7 @@ Sales dipped pretty noticeably from June to August across all regions. That mid-
 
 ## How to Open
 
-Download `Sales_Performance_Dashboard.xlsx` and open it in Excel 2016 or later.
+Download `Sales_Performance_Dashboard.xlsx` and open it 
 
 Start on the Dashboard sheet. If you want to explore the numbers, the pivot tables are on the other sheets. The Raw Data sheet has all 300 rows.
 
